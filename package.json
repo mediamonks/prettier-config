@@ -18,6 +18,9 @@
   "author": "Media.Monks",
   "main": "main.json",
   "peerDependencies": {
-    "prettier": ">=2"
+    "prettier": ">=3"
+  },
+  "volta": {
+    "node": "24.11.0"
   }
 }
